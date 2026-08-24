@@ -8,14 +8,10 @@
     <td valign="top" width="55%">
      
 ```text
- _ _ _ _____ __    _____ _____ _____ _____
-
-| | | |   __|  |  |     |     |     |   __|
-| | | |   __|  |__|   --|  |  | | | |   __|
-|_____|_____|_____|_____|_____|_|_|_|_____|
-
+┓ ┏┏┓┓ ┏┓┏┓┳┳┓┏┓
+┃┃┃┣ ┃ ┃ ┃┃┃┃┃┣  
+┗┻┛┗┛┗┛┗┛┗┛┛ ┗┗┛
 ------------------------
-
 | I'm Flávio Betarelli |
 ------------------------
 A Fullstack Web Developer, and aspiring Software Engineer from Brazil.
@@ -62,7 +58,6 @@ _"A React Vite application for documenting personal projects made for software e
 
 [Check it out Here!](https://github.com/fbetarelli/Solver.dev)
 
-    
 </td>
     <td valign="top" width="40%">
       <img src="./assets/Solver.png" width="100%">
